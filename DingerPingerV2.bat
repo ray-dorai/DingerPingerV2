@@ -1,5 +1,3 @@
-batch
-Copy code
 @echo off
 setlocal enabledelayedexpansion
 
